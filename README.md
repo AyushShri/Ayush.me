@@ -4,5 +4,5 @@
 # Ayush.me- <a href="https://dev.to/ayushshri">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ayush Shrivastav's DEV Profile" height="30" width="30">
 </a> <br> 
-Its a personal website about me. It shows all my skills, proficiency with them and projects done.\
-Updated- August  11, 2020
+Its a personal website about me. It shows all my skills, proficiency with them and projects done.\ 
+Updated- October  29, 2020
